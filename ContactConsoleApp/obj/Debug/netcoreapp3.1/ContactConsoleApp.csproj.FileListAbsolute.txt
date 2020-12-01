@@ -1,0 +1,13 @@
+C:\Users\glebo\source\repos\ContactConsoleApp\ContactConsoleApp\bin\Debug\netcoreapp3.1\ContactConsoleApp.exe
+C:\Users\glebo\source\repos\ContactConsoleApp\ContactConsoleApp\bin\Debug\netcoreapp3.1\ContactConsoleApp.deps.json
+C:\Users\glebo\source\repos\ContactConsoleApp\ContactConsoleApp\bin\Debug\netcoreapp3.1\ContactConsoleApp.runtimeconfig.json
+C:\Users\glebo\source\repos\ContactConsoleApp\ContactConsoleApp\bin\Debug\netcoreapp3.1\ContactConsoleApp.runtimeconfig.dev.json
+C:\Users\glebo\source\repos\ContactConsoleApp\ContactConsoleApp\bin\Debug\netcoreapp3.1\ContactConsoleApp.dll
+C:\Users\glebo\source\repos\ContactConsoleApp\ContactConsoleApp\bin\Debug\netcoreapp3.1\ContactConsoleApp.pdb
+C:\Users\glebo\source\repos\ContactConsoleApp\ContactConsoleApp\obj\Debug\netcoreapp3.1\ContactConsoleApp.csprojAssemblyReference.cache
+C:\Users\glebo\source\repos\ContactConsoleApp\ContactConsoleApp\obj\Debug\netcoreapp3.1\ContactConsoleApp.AssemblyInfoInputs.cache
+C:\Users\glebo\source\repos\ContactConsoleApp\ContactConsoleApp\obj\Debug\netcoreapp3.1\ContactConsoleApp.AssemblyInfo.cs
+C:\Users\glebo\source\repos\ContactConsoleApp\ContactConsoleApp\obj\Debug\netcoreapp3.1\ContactConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\glebo\source\repos\ContactConsoleApp\ContactConsoleApp\obj\Debug\netcoreapp3.1\ContactConsoleApp.dll
+C:\Users\glebo\source\repos\ContactConsoleApp\ContactConsoleApp\obj\Debug\netcoreapp3.1\ContactConsoleApp.pdb
+C:\Users\glebo\source\repos\ContactConsoleApp\ContactConsoleApp\obj\Debug\netcoreapp3.1\ContactConsoleApp.genruntimeconfig.cache

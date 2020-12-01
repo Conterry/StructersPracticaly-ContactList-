@@ -4,17 +4,17 @@ using System.Text;
 
 namespace ContactConsoleApp
 {
-    struct Contact
+    public struct Contact
     {
         public string Name;
-        public string SecondName;
         public string Number;
 
-        public Contact(string Name, string SecondName, string Number)
+        public static Contact NewContact()
         {
-            this.Name = Name;
-            this.SecondName = SecondName;
-            this.Number = Number;
+            Contact contact = new Contact();
+            contact.Name = "no info";
+            contact.Number = "no info";
+            return contact;
         }
     }
 }
